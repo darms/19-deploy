@@ -7,6 +7,7 @@ const mongoose = require('mongoose');
 const createError = require('http-errors');
 const Promise = require('bluebird');
 const debug = require('debug')('cfgram:user');
+//Whamp a doo damp please trigger a Travis build
 
 const Schema = mongoose.Schema;
 
