@@ -8,8 +8,8 @@
   },
   "scripts": {
     "test": "DEBUG='cfgram*' mocha",
-    "start": "DEBUG='cfgram*' node server.js"
-  },
+    "start": "DEBUG='cfgram*' node server.js",
+    },
   "keywords": [],
   "author": "",
   "license": "ISC",
